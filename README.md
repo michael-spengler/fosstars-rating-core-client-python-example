@@ -1,0 +1,1 @@
+# fosstars-rating-core-client-typescript-in-python-example
