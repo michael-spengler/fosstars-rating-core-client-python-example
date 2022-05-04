@@ -1,1 +1,1 @@
-# fosstars-rating-core-client-typescript-in-python-example
+# Fosstars Rating Core Client Python Example
